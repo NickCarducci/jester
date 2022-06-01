@@ -109,7 +109,9 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
-        Jester.com.co
+        <a href="https://www.quora.com/unanswered/Is-Corpus-Linguistics-division-of-labors-efficiency-the-reason-for-all-laws">
+          Jester.com.co
+        </a>
         <br />
         {/*<a
           href="https://realecon.quora.com"
