@@ -161,6 +161,13 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <br />
+        <a href="https://www.quora.com/Can-1099-workers-use-their-expenses-at-the-convenience-of-themselves">
+          Can 1099 workers use their expenses at the convenience of themselves?
+        </a>
+        <br />
+        <br />
+        <a href="https://quora.com/nick-carducci">Propaganda Research</a>
       </div>
     );
   }
