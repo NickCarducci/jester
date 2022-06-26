@@ -109,6 +109,34 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        <a
+          href="https://truncatedwholesaletax.com"
+          style={{
+            float: "right",
+            width: `calc(${Math.min(600, this.state.width)}px - 90%)`
+          }}
+        >
+          <Cable
+            style={{
+              backgroundColor: "white",
+              width: "100%",
+              height: "auto"
+            }}
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.noyout
+                ? ""
+                : "https://www.dropbox.com/s/6movjouiifpm79h/waluigi.png?raw=1"
+            }
+            float={null}
+            title="https://truncatedwholesaletax.com"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+        </a>
         <a href="https://www.quora.com/unanswered/Is-Corpus-Linguistics-division-of-labors-efficiency-the-reason-for-all-laws">
           Jester.com.co
         </a>
@@ -170,6 +198,69 @@ export default class App extends React.Component {
         <br />
         <br />
         <a href="https://quora.com/nick-carducci">Propaganda Research</a>
+        <br />
+        <br />
+        <a href="https://www.quora.com/unanswered/Is-the-Joe-Biden-White-House-delusional-about-targeting-unconscionable-margins-without-a-percentage-nor-subsidiary-limitation">
+          Is the Joe Biden White House delusional about targeting unconscionable
+          margins without a percentage nor subsidiary limitation
+        </a>
+        ?
+        <br />
+        <br />
+        <a href="https://www.quora.com/unanswered/Can-you-say-the-treasury-bonds-are-treason-because-uniform-is-not-taxes-and-bonds">
+          Can you say "the treasury bonds are 'treason'" because 'uniform' is
+          not taxes and bonds
+        </a>
+        ?
+        <br />
+        <br />
+        <a href="https://www.quora.com/unanswered/Why-can-hospice-accord-mercy-deaths-but-you-cannot-yourself-when-you-wish-to">
+          Why can hospice accord mercy-deaths but you cannot yourself when you
+          wish to
+        </a>
+        ?
+        <br />
+        <br />
+        <a href="https://www.quora.com/unanswered/Is-Cindy-Adams-insane-for-saying-healthcare-and-economy-issues-are-reconcilable">
+          Is Cindy Adams insane for saying healthcare and economy issues are
+          reconcilable
+        </a>
+        ?
+        <br />
+        <br />
+        <a href="https://www.quora.com/unanswered/Can-I-claim-unemployment-for-inflation-to-ward-my-cost-of-living-or-deflation-for-less-wages-available">
+          Can I claim unemployment for inflation to ward my cost of living or
+          deflation for less wages available
+        </a>
+        ?
+        <br />
+        <br />
+        <a href="https://www.quora.com/unanswered/What-rationality-is-there-to-make-camp-medical-tuition-retreats-and-lunch-employee-benefits-tax-exempt">
+          What rationality is there to make camp, medical, tuition, retreats,
+          and lunch employee benefits tax exempt
+        </a>
+        ?
+        <br />
+        <br />
+        <a href="https://www.quora.com/unanswered/Did-Chelsea-Manning-put-anyone-in-danger-except-the-image-of-the-Pentagon">
+          Did Chelsea Manning put anyone in danger except the image of the
+          Pentagon
+        </a>
+        ?
+        <br />
+        <br />
+        <a href="https://www.quora.com/unanswered/Would-modern-day-gangs-trade-peacefully-if-they-were-only-prosecuted-insofar-as-to-open-source-name-and-so-on-to-allow-reviews">
+          Would modern day gangs trade peacefully if they were only prosecuted
+          insofar as to open source, name, and so on to allow reviews
+        </a>
+        ?
+        <br />
+        <br />
+        <a href="https://www.quora.com/Can-we-replace-the-FDA-with-open-source-and-login-gov-Know-Your-Customer">
+          Can we replace the FDA with open source and login.gov 'Know Your
+          Customer'
+        </a>
+        ?
       </div>
     );
   }
