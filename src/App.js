@@ -109,6 +109,13 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        <h4
+          style={{
+            margin: "4px 0px"
+          }}
+        >
+          Mimetic defense niche
+        </h4>
         <a href="https://scopebook.quora.com">Timeclock unlock</a>
         {space}don’t self stunt price taking insurance nor exemption by labor
         demand of other markets’ substitutive inelasticity points to elastic
