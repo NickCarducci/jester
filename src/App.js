@@ -114,7 +114,11 @@ export default class App extends React.Component {
             margin: "4px 0px"
           }}
         >
-          Mimetic defense niche
+          Mimetic defense{space}
+          <a href="https://reddit.com/r/moralanarchism">n</a>ich
+          <a href="https://unemploymentinsurance.quora.com/If-you-are-receiving-unemployment-benefits-are-you-required-to-look-for-work-1">
+            e
+          </a>
         </h4>
         <a href="https://scopebook.quora.com">Timeclock unlock</a>
         {space}don’t self stunt price taking insurance nor exemption by labor
