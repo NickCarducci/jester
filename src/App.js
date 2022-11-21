@@ -109,6 +109,13 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        Doesn’t ‘retarded’ mean stupid? Don’t ableists hate being called stupid?
+        {space}
+        <a href="https://reddit.com/r/2020haters">
+          Aren’t anti-vaxxers mentally ill? Haven’t we proven vaccines save
+          lives
+        </a>
+        ?
         <h4
           style={{
             margin: "4px 0px"
