@@ -116,6 +116,48 @@ export default class App extends React.Component {
           lives
         </a>
         ?
+        <br />
+        <br />
+        "'Oh, you neo-marxist scum, in the situation of war I'd be the first one
+        to execute you in the name of the state for high treason.'" Irratically,
+        u/Narcy_Boy continues "he explicitly asked me if I was willing to die
+        for my country or European Union or whatever. I said that I woundn't,
+        because I don't believe in arbitrary patriotism or nationalism."
+        <br />
+        <br />I stopped reading and just started looking after you says common
+        sense. That’s how we’re here. If you wasn’t right, I wouldn’t have even
+        {space}
+        <i>looked</i>
+        {space}at it, maintenance.
+        {space}
+        <i>Anyways, neo-_ is akin to anti-_</i>, so this Marxist would use the
+        state to hang when we have{space}
+        <a href="https://thetax.party">Jersey Shore Premium</a>
+        {space}
+        Outlets’ usufruct without the state (+) with horizontal slaying.{space}
+        <i>You’re ideating in reason</i>
+        {space}I would{space}
+        <a href="https://reddit.com/r/mentalhealthsupport">mediate</a>
+        <br />
+        <br />
+        Are you saying common sense is draft dodging? History would say no,
+        common sense is to do exactly what you complained about.
+        {/**if you boycotting and not building you dying
+        
+        I am an infrastructure trust fund baby *who would like* [*NYC $10k
+        apartment*](https://landlordliquidity.quora.com) *outright* living with
+        mum at 30 trying to boycott credit on my website forums.
+
+        //brainscan.info "green light, [correlated] politics" russel brand guest
+        */}
+        <br />
+        <br />
+        Pass me the ham{space}
+        <i>
+          (Isn’t charging the pot how it becomes expensive in the first place?
+          Idk, JHU failed my{space}
+          <a href="https://marginalism.uk">game theory ideas</a>.)
+        </i>
         <h4
           style={{
             margin: "4px 0px"
