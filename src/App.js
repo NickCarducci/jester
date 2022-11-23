@@ -119,17 +119,35 @@ export default class App extends React.Component {
         <br />
         <br />
         "'Oh, you neo-marxist scum, in the situation of war I'd be the first one
-        to execute you in the name of the state for high treason.'" Irratically,
-        u/Narcy_Boy continues "he explicitly asked me if I was willing to die
-        for my country or European Union or whatever. I said that I woundn't,
-        because I don't believe in arbitrary patriotism or nationalism."
+        to execute you in the name of the state for high treason.'" Irratically
+        {/**deranged fashion */}, u/Narcy_Boy continues "he explicitly asked me
+        if I was willing to die for my country or European Union or whatever. I
+        said that I woundn't, because I don't believe in arbitrary patriotism or
+        nationalism."
         <br />
         <br />I stopped reading and just started looking after you says common
         sense. That’s how we’re here. If you wasn’t right, I wouldn’t have even
         {space}
         <i>looked</i>
         {space}at it, maintenance.
-        {space}
+        <br />
+        <div style={{ borderLeft: "1px solid", padding: "10px" }}>
+          Doesn’t inflation turn out to be from an imbalance of too much money
+          chasing too few goods exclusively if margins and labor productivity
+          per capita are constant?
+          <h3 style={{ margin: "4px 0px" }}>
+            <a href="https://commie.dev/banks">Communism</a>
+            {space}&bull;{space}
+            <a href="https://micro-theory.com">Microeconomics</a>
+            {space}&bull;{space}
+            <a href="https://marginalism.uk">
+              New Plurality Choice Voting Assuage Delusion of Historical Network
+              Effect
+            </a>
+            {space}and{space}
+            <a href="https://epiology.quora.com">its Significancies</a>
+          </h3>
+        </div>
         <i>Anyways, neo-_ is akin to anti-_</i>, so this Marxist would use the
         state to hang when we have{space}
         <a href="https://thetax.party">Jersey Shore Premium</a>
