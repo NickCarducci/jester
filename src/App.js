@@ -109,6 +109,7 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        <h2>We are retarded by only our actions exclusively, alone.</h2>
         Doesn’t ‘retarded’ mean stupid? Don’t ableists hate being called stupid?
         {space}
         <a href="https://reddit.com/r/2020haters">
@@ -387,3 +388,4 @@ export default class App extends React.Component {
     );
   }
 }
+
