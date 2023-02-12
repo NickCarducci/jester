@@ -109,6 +109,23 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        <h3>
+          Some prissy NJ italian americans say: no kids allowed in the{space}
+          <span style={{ textDecoration: "line-through" }}>club</span>
+          {space}restaurant
+        </h3>
+        <i>Do not waste my time</i>: Are net exports better than imports while
+        material depletion and degradation are better than either deflationary
+        employment or technical layoff structural atomicities, or are economists
+        liable for bad advice?
+        <br />
+        My best argument is they are abusing network effects, but a parent would
+        have to complain... and have the funds to do so. They would be able to
+        enforce it with public police for disturbance, not unprotected classes;
+        that's for special cases.
+        <br />I don’t really benefit for the being there, that is, but for
+        recommendations the kid cannot benefit from their success as a business
+        and supposed improvement.
         <h2>We are retarded by only our actions exclusively, alone.</h2>
         Doesn’t ‘retarded’ mean stupid? Don’t ableists hate being called stupid?
         {space}
