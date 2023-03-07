@@ -109,6 +109,8 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        <h1>Sport for the anarchist:</h1>
+        <h2>Occupy Straight Edge</h2>
         <h3>
           Don't do it on the hill;{space}
           <a href="https://marginalism.uk">it's for you dawg</a>
