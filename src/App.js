@@ -109,6 +109,8 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
+        Can third party donee beneficiaries control another person's
+        indebtedness before requiring a suit or are cops corrupt?
         <h1>Sport for the anarchist:</h1>
         <h2>Occupy Straight Edge</h2>
         <h3>
