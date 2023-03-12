@@ -110,9 +110,17 @@ export default class App extends React.Component {
         }}
       >
         Can third party donee beneficiaries control another person's
-        indebtedness before requiring a suit or are cops corrupt?
-        <h1>Sport for the anarchist:</h1>
-        <h2>Occupy Straight Edge</h2>
+        indebtedness before requiring a suit or are cops corrupt?{space}
+        <i>
+          Does the Russian Federation register for grantor-trustee people
+          limited either family or friend testamentary partnerships or do they
+          kill those in personal debt with those probate-creditors without a
+          debt-service foreclosure-lien as Zelenskyy claims?
+        </i>
+        <h1 style={{ margin: "4px 0px" }}>Sport for the anarchist:</h1>
+        <h2 style={{ margin: "4px 0px" }}>
+          Occupy Straight Edge (nick@commie.dev/mod)
+        </h2>
         <h3>
           Don't do it on the hill;{space}
           <a href="https://marginalism.uk">it's for you dawg</a>
